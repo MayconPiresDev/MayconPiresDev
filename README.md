@@ -1,4 +1,5 @@
-## Hi there, I'm Maycon Pires 👋
+## Hi there, I'm Maycon Pires <img src="https://media.giphy.com/media/U4FhLNfZiY0ZY6bnEs/giphy.gif" width="42" height="42" />
+
 
 
 - 🌱 I'm a student a Full Stack developer
