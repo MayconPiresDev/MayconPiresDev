@@ -8,8 +8,8 @@
 - 👨‍💻 I'm looking for an opportunity to put my studies into practice
 
 <div align="center">
-  <img height="195em" src="https://github-readme-stats.vercel.app/api?username=MayconPires-exe&show_icons=true&theme=jolly">
-  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayconPires-exe&layout=compact&theme=jolly"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MayconPires-exe&show_icons=true&theme=jolly">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayconPires-exe&layout=compact&theme=jolly"/>
 </div>
 
 
