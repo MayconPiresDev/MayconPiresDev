@@ -7,8 +7,11 @@
 - 🚀 I'm participate in the rocketseat platform online training
 - 👨‍💻 I'm looking for an opportunity to put my studies into practice
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MayconPires-exe&show_icons=true&theme=jolly)
-<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayconPires-exe&layout=compact&theme=jolly"/>
+<div align="center">
+  <img height="195em" src="https://github-readme-stats.vercel.app/api?username=MayconPires-exe&show_icons=true&theme=jolly">
+  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayconPires-exe&layout=compact&theme=jolly"/>
+</div>
+
 
 <div style="display: inline_block">
   <img align="center" alt="MayconPires-exe-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
