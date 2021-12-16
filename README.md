@@ -28,6 +28,6 @@
 <div>
   <a href="https://www.linkedin.com/in/maycon-pires-8893b519b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-  <a href="mailto:piresmaycon4@gmail.com.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"target="_blank">   </a>
+  <a href="mailto:piresmaycon4@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"target="_blank">   </a>
 </div>
 
