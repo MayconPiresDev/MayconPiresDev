@@ -2,7 +2,7 @@
 
 
 
-- 🌱 I'm a student a Full Stack developer
+- 🌱 I'm a a Full Stack developer
 - 📚 I'm currently a Computer Engineering student - Attending 10° period
 - 🚀 I'm participate in the rocketseat platform online training
 - 👨‍💻 I'm looking for an opportunity to put my studies into practice
